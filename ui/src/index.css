@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans KR', 'Segoe UI', sans-serif;
+  background: #ffffff;
+  color: #111827;
+}
+
+* {
+  box-sizing: border-box;
+}
